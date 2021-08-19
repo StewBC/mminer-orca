@@ -1,0 +1,6 @@
+.vscode/*
+/src/*.mac
+/obj/
+/debug*
+/mminer.po
+/MMINER
